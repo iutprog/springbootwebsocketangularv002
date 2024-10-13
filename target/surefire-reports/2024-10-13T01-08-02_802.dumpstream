@@ -1,0 +1,5 @@
+# Created at 2024-10-13T01:08:02.990
+Boot Manifest-JAR contains absolute paths in classpath 'E:\VS CODES\springbootwebsocketangularv002\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
